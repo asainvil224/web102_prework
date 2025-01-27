@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/579833c2bb79482eb4a0bba45925cdb4?sid=2e930ea9-356c-47f9-a30c-d13e6c384f53' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/579833c2bb79482eb4a0bba45925cdb4?sid=cc1db35e-dce1-40df-8cb5-d9bc656f9b69" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
