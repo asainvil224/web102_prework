@@ -30,7 +30,15 @@ body {
     margin: 1%;
     width: 100%;
     text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease, transform 0.3s ease; 
+
 }
+.stats-card:hover {
+    cursor: pointer; /* Changes cursor to pointer */
+    box-shadow: 0 0 30px lightblue; /* Glowing light blue shadow */
+    transform: translateY(-5px); /* Slightly lifts the card on hover */
+  }
 
 #num-contributions, #total-raised, #num-games {
     font-size: 50px;
@@ -60,6 +68,8 @@ body {
 .game-card:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
 }
 
 #button-container {
