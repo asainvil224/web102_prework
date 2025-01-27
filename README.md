@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1wCjTxCTVOCEaitNbSKcLbHxs_ReoevF7/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/579833c2bb79482eb4a0bba45925cdb4?sid=eb61bd6e-e16d-485b-bc6a-fd8a68b104f4' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
